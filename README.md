@@ -9,8 +9,7 @@ I enjoy building software, exploring systems programming, and finding bugs worth
 - Work with AI To code my applications
 - Exploring **Rust and Go** for systems and application development
 - Working with **C++, Arduino, and robotics**
-- Learning about **CMake, build systems, and software architecture**
-- Interested in contributing bug fixes to open-source projects
+- Interested in contributing bug fixes to open-source projects by opening issues
 - Building projects that are lightweight, practical, and efficient
 
 ### Tech Stack
@@ -31,7 +30,7 @@ I enjoy building software, exploring systems programming, and finding bugs worth
 
 ### Currently Exploring
 
-- Systems programming with Rust and Go
+- Systems programming with Rust and Go with AI
 - Embedded development and robotics with Arduino C++
 - Open-source contributions by creating issues
 
